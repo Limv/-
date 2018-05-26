@@ -1,0 +1,59 @@
+html{
+    font-family: FangSong;
+}
+h1{
+    font-size: 2em;
+}
+#style_2{
+    height: 4em;
+    background-color:grey;
+    padding-left: 1em;
+    padding-top: 0.1em;
+    padding-bottom: 0.6em;
+    
+}
+.left{
+    position: relative;
+    float: left;
+    font-size: 15px;
+    margin-bottom: 50px;
+    background-color: rgb(182, 175, 175);
+    height: 8em;
+    width: 8em;
+    margin-left: 0px;
+    margin-bottom: 10px;
+
+}
+a{
+    font-size:17px;
+}
+.PI{
+    float: left;
+    margin-left: 40PX;
+    font-size: 17px;
+}
+.PIvalue{
+    font-size: 17px;
+    font-weight: 550;
+    float: left;
+    margin-left: 10px;
+}
+.PS{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+div h2{
+    position: absolute;
+    top: 25px;
+    left: 13px;
+    
+}
+
+.left_info{
+    height:8em;
+    border-bottom-color: aqua;
+    border: 1px solid;
+    
+
+}

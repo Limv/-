@@ -1,0 +1,21 @@
+html{
+    font-family: Helvetica, 'Hiragino Sans GB', 'Microsoft Yahei', '微软雅黑', Arial, sans-serif;
+}
+a{
+    font-size:17px;
+}
+.PI{
+    float: left;
+    margin-left: 40PX;
+    font-size: 17px;
+}
+.PIvalue{
+    font-size: 17px;
+    font-weight: 550;
+    float: left;
+    margin-left: 10px;
+}
+.PS{
+    font-size: 18px;
+    font-weight: bold;
+}
